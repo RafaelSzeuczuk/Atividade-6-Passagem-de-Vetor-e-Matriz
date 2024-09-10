@@ -1,0 +1,8 @@
+6)
+    Na linha 16, se a=1, b=2 e c=3, os numeros divisiveis por 1 no intervalo de 2 a 3 é 5, logo será impresso 5;
+
+7)
+    Na linha 19, o codigo verificase so o número se decomposto em duas partes, e a soma dessas partes, quando elevada ao quadrado, resulta no próprio número, se isso for verdadeiro, é impresso que este número possui esta caracteristica, caso contrário, não possui;
+
+8)
+    NA linha 14, o codigo montra quantos divisores o número possui;
